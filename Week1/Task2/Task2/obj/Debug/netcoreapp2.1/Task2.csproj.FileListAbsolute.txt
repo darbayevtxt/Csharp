@@ -1,0 +1,11 @@
+C:\Users\Nurdaulet\Desktop\PP2\Week1\Task2\Task2\bin\Debug\netcoreapp2.1\Task2.deps.json
+C:\Users\Nurdaulet\Desktop\PP2\Week1\Task2\Task2\bin\Debug\netcoreapp2.1\Task2.runtimeconfig.json
+C:\Users\Nurdaulet\Desktop\PP2\Week1\Task2\Task2\bin\Debug\netcoreapp2.1\Task2.runtimeconfig.dev.json
+C:\Users\Nurdaulet\Desktop\PP2\Week1\Task2\Task2\bin\Debug\netcoreapp2.1\Task2.dll
+C:\Users\Nurdaulet\Desktop\PP2\Week1\Task2\Task2\bin\Debug\netcoreapp2.1\Task2.pdb
+C:\Users\Nurdaulet\Desktop\PP2\Week1\Task2\Task2\obj\Debug\netcoreapp2.1\Task2.csprojAssemblyReference.cache
+C:\Users\Nurdaulet\Desktop\PP2\Week1\Task2\Task2\obj\Debug\netcoreapp2.1\Task2.csproj.CoreCompileInputs.cache
+C:\Users\Nurdaulet\Desktop\PP2\Week1\Task2\Task2\obj\Debug\netcoreapp2.1\Task2.AssemblyInfoInputs.cache
+C:\Users\Nurdaulet\Desktop\PP2\Week1\Task2\Task2\obj\Debug\netcoreapp2.1\Task2.AssemblyInfo.cs
+C:\Users\Nurdaulet\Desktop\PP2\Week1\Task2\Task2\obj\Debug\netcoreapp2.1\Task2.dll
+C:\Users\Nurdaulet\Desktop\PP2\Week1\Task2\Task2\obj\Debug\netcoreapp2.1\Task2.pdb
