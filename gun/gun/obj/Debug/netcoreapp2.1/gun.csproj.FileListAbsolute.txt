@@ -1,0 +1,11 @@
+C:\Users\Nurdaulet\Desktop\Programming\gun\gun\bin\Debug\netcoreapp2.1\gun.deps.json
+C:\Users\Nurdaulet\Desktop\Programming\gun\gun\bin\Debug\netcoreapp2.1\gun.runtimeconfig.json
+C:\Users\Nurdaulet\Desktop\Programming\gun\gun\bin\Debug\netcoreapp2.1\gun.runtimeconfig.dev.json
+C:\Users\Nurdaulet\Desktop\Programming\gun\gun\bin\Debug\netcoreapp2.1\gun.dll
+C:\Users\Nurdaulet\Desktop\Programming\gun\gun\bin\Debug\netcoreapp2.1\gun.pdb
+C:\Users\Nurdaulet\Desktop\Programming\gun\gun\obj\Debug\netcoreapp2.1\gun.csprojAssemblyReference.cache
+C:\Users\Nurdaulet\Desktop\Programming\gun\gun\obj\Debug\netcoreapp2.1\gun.csproj.CoreCompileInputs.cache
+C:\Users\Nurdaulet\Desktop\Programming\gun\gun\obj\Debug\netcoreapp2.1\gun.AssemblyInfoInputs.cache
+C:\Users\Nurdaulet\Desktop\Programming\gun\gun\obj\Debug\netcoreapp2.1\gun.AssemblyInfo.cs
+C:\Users\Nurdaulet\Desktop\Programming\gun\gun\obj\Debug\netcoreapp2.1\gun.dll
+C:\Users\Nurdaulet\Desktop\Programming\gun\gun\obj\Debug\netcoreapp2.1\gun.pdb
