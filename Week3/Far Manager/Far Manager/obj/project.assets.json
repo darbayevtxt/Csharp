@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nurdaulet\\Desktop\\Week3\\Far Manager\\Far Manager\\Far Manager.csproj",
+      "projectUniqueName": "C:\\Users\\Nurdaulet\\Documents\\GitHub\\Csharp\\Week3\\Far Manager\\Far Manager\\Far Manager.csproj",
       "projectName": "Far Manager",
-      "projectPath": "C:\\Users\\Nurdaulet\\Desktop\\Week3\\Far Manager\\Far Manager\\Far Manager.csproj",
+      "projectPath": "C:\\Users\\Nurdaulet\\Documents\\GitHub\\Csharp\\Week3\\Far Manager\\Far Manager\\Far Manager.csproj",
       "packagesPath": "C:\\Users\\Nurdaulet\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nurdaulet\\Desktop\\Week3\\Far Manager\\Far Manager\\obj\\",
+      "outputPath": "C:\\Users\\Nurdaulet\\Documents\\GitHub\\Csharp\\Week3\\Far Manager\\Far Manager\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

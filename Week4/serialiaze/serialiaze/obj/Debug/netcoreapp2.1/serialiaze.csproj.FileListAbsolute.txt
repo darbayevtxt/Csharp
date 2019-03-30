@@ -1,0 +1,11 @@
+C:\Users\Nurdaulet\Desktop\Programming\serialiaze\serialiaze\bin\Debug\netcoreapp2.1\serialiaze.deps.json
+C:\Users\Nurdaulet\Desktop\Programming\serialiaze\serialiaze\bin\Debug\netcoreapp2.1\serialiaze.runtimeconfig.json
+C:\Users\Nurdaulet\Desktop\Programming\serialiaze\serialiaze\bin\Debug\netcoreapp2.1\serialiaze.runtimeconfig.dev.json
+C:\Users\Nurdaulet\Desktop\Programming\serialiaze\serialiaze\bin\Debug\netcoreapp2.1\serialiaze.dll
+C:\Users\Nurdaulet\Desktop\Programming\serialiaze\serialiaze\bin\Debug\netcoreapp2.1\serialiaze.pdb
+C:\Users\Nurdaulet\Desktop\Programming\serialiaze\serialiaze\obj\Debug\netcoreapp2.1\serialiaze.csprojAssemblyReference.cache
+C:\Users\Nurdaulet\Desktop\Programming\serialiaze\serialiaze\obj\Debug\netcoreapp2.1\serialiaze.csproj.CoreCompileInputs.cache
+C:\Users\Nurdaulet\Desktop\Programming\serialiaze\serialiaze\obj\Debug\netcoreapp2.1\serialiaze.AssemblyInfoInputs.cache
+C:\Users\Nurdaulet\Desktop\Programming\serialiaze\serialiaze\obj\Debug\netcoreapp2.1\serialiaze.AssemblyInfo.cs
+C:\Users\Nurdaulet\Desktop\Programming\serialiaze\serialiaze\obj\Debug\netcoreapp2.1\serialiaze.dll
+C:\Users\Nurdaulet\Desktop\Programming\serialiaze\serialiaze\obj\Debug\netcoreapp2.1\serialiaze.pdb

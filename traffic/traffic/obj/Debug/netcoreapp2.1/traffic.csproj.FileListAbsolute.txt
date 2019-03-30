@@ -1,0 +1,11 @@
+C:\Users\Nurdaulet\Desktop\Programming\traffic\traffic\bin\Debug\netcoreapp2.1\traffic.deps.json
+C:\Users\Nurdaulet\Desktop\Programming\traffic\traffic\bin\Debug\netcoreapp2.1\traffic.runtimeconfig.json
+C:\Users\Nurdaulet\Desktop\Programming\traffic\traffic\bin\Debug\netcoreapp2.1\traffic.runtimeconfig.dev.json
+C:\Users\Nurdaulet\Desktop\Programming\traffic\traffic\bin\Debug\netcoreapp2.1\traffic.dll
+C:\Users\Nurdaulet\Desktop\Programming\traffic\traffic\bin\Debug\netcoreapp2.1\traffic.pdb
+C:\Users\Nurdaulet\Desktop\Programming\traffic\traffic\obj\Debug\netcoreapp2.1\traffic.csprojAssemblyReference.cache
+C:\Users\Nurdaulet\Desktop\Programming\traffic\traffic\obj\Debug\netcoreapp2.1\traffic.csproj.CoreCompileInputs.cache
+C:\Users\Nurdaulet\Desktop\Programming\traffic\traffic\obj\Debug\netcoreapp2.1\traffic.AssemblyInfoInputs.cache
+C:\Users\Nurdaulet\Desktop\Programming\traffic\traffic\obj\Debug\netcoreapp2.1\traffic.AssemblyInfo.cs
+C:\Users\Nurdaulet\Desktop\Programming\traffic\traffic\obj\Debug\netcoreapp2.1\traffic.dll
+C:\Users\Nurdaulet\Desktop\Programming\traffic\traffic\obj\Debug\netcoreapp2.1\traffic.pdb

@@ -1,0 +1,11 @@
+C:\Users\Nurdaulet\Desktop\Programming\serialize2\serialize2\bin\Debug\netcoreapp2.1\serialize2.deps.json
+C:\Users\Nurdaulet\Desktop\Programming\serialize2\serialize2\bin\Debug\netcoreapp2.1\serialize2.runtimeconfig.json
+C:\Users\Nurdaulet\Desktop\Programming\serialize2\serialize2\bin\Debug\netcoreapp2.1\serialize2.runtimeconfig.dev.json
+C:\Users\Nurdaulet\Desktop\Programming\serialize2\serialize2\bin\Debug\netcoreapp2.1\serialize2.dll
+C:\Users\Nurdaulet\Desktop\Programming\serialize2\serialize2\bin\Debug\netcoreapp2.1\serialize2.pdb
+C:\Users\Nurdaulet\Desktop\Programming\serialize2\serialize2\obj\Debug\netcoreapp2.1\serialize2.csprojAssemblyReference.cache
+C:\Users\Nurdaulet\Desktop\Programming\serialize2\serialize2\obj\Debug\netcoreapp2.1\serialize2.csproj.CoreCompileInputs.cache
+C:\Users\Nurdaulet\Desktop\Programming\serialize2\serialize2\obj\Debug\netcoreapp2.1\serialize2.AssemblyInfoInputs.cache
+C:\Users\Nurdaulet\Desktop\Programming\serialize2\serialize2\obj\Debug\netcoreapp2.1\serialize2.AssemblyInfo.cs
+C:\Users\Nurdaulet\Desktop\Programming\serialize2\serialize2\obj\Debug\netcoreapp2.1\serialize2.dll
+C:\Users\Nurdaulet\Desktop\Programming\serialize2\serialize2\obj\Debug\netcoreapp2.1\serialize2.pdb

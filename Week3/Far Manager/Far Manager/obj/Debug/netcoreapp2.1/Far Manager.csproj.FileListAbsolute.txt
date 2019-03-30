@@ -9,3 +9,14 @@ C:\Users\Nurdaulet\Desktop\Week3\Far Manager\Far Manager\obj\Debug\netcoreapp2.1
 C:\Users\Nurdaulet\Desktop\Week3\Far Manager\Far Manager\obj\Debug\netcoreapp2.1\Far Manager.AssemblyInfo.cs
 C:\Users\Nurdaulet\Desktop\Week3\Far Manager\Far Manager\obj\Debug\netcoreapp2.1\Far Manager.dll
 C:\Users\Nurdaulet\Desktop\Week3\Far Manager\Far Manager\obj\Debug\netcoreapp2.1\Far Manager.pdb
+C:\Users\Nurdaulet\Documents\GitHub\Csharp\Week3\Far Manager\Far Manager\bin\Debug\netcoreapp2.1\Far Manager.deps.json
+C:\Users\Nurdaulet\Documents\GitHub\Csharp\Week3\Far Manager\Far Manager\bin\Debug\netcoreapp2.1\Far Manager.runtimeconfig.json
+C:\Users\Nurdaulet\Documents\GitHub\Csharp\Week3\Far Manager\Far Manager\bin\Debug\netcoreapp2.1\Far Manager.runtimeconfig.dev.json
+C:\Users\Nurdaulet\Documents\GitHub\Csharp\Week3\Far Manager\Far Manager\bin\Debug\netcoreapp2.1\Far Manager.dll
+C:\Users\Nurdaulet\Documents\GitHub\Csharp\Week3\Far Manager\Far Manager\bin\Debug\netcoreapp2.1\Far Manager.pdb
+C:\Users\Nurdaulet\Documents\GitHub\Csharp\Week3\Far Manager\Far Manager\obj\Debug\netcoreapp2.1\Far Manager.csprojAssemblyReference.cache
+C:\Users\Nurdaulet\Documents\GitHub\Csharp\Week3\Far Manager\Far Manager\obj\Debug\netcoreapp2.1\Far Manager.csproj.CoreCompileInputs.cache
+C:\Users\Nurdaulet\Documents\GitHub\Csharp\Week3\Far Manager\Far Manager\obj\Debug\netcoreapp2.1\Far Manager.AssemblyInfoInputs.cache
+C:\Users\Nurdaulet\Documents\GitHub\Csharp\Week3\Far Manager\Far Manager\obj\Debug\netcoreapp2.1\Far Manager.AssemblyInfo.cs
+C:\Users\Nurdaulet\Documents\GitHub\Csharp\Week3\Far Manager\Far Manager\obj\Debug\netcoreapp2.1\Far Manager.dll
+C:\Users\Nurdaulet\Documents\GitHub\Csharp\Week3\Far Manager\Far Manager\obj\Debug\netcoreapp2.1\Far Manager.pdb

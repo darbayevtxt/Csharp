@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nurdaulet\\Desktop\\Week2\\Task1\\Task1\\Task1.csproj",
+      "projectUniqueName": "C:\\Users\\Nurdaulet\\Documents\\GitHub\\Csharp\\Week2\\Task1\\Task1\\Task1.csproj",
       "projectName": "Task1",
-      "projectPath": "C:\\Users\\Nurdaulet\\Desktop\\Week2\\Task1\\Task1\\Task1.csproj",
+      "projectPath": "C:\\Users\\Nurdaulet\\Documents\\GitHub\\Csharp\\Week2\\Task1\\Task1\\Task1.csproj",
       "packagesPath": "C:\\Users\\Nurdaulet\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nurdaulet\\Desktop\\Week2\\Task1\\Task1\\obj\\",
+      "outputPath": "C:\\Users\\Nurdaulet\\Documents\\GitHub\\Csharp\\Week2\\Task1\\Task1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,0 +1,17 @@
+C:\Users\Nurdaulet\Desktop\Programming\Snake\Snake\obj\Debug\netcoreapp2.1\Snake.csprojAssemblyReference.cache
+C:\Users\Nurdaulet\Desktop\Programming\Snake\Snake\obj\Debug\netcoreapp2.1\Snake.csproj.CoreCompileInputs.cache
+C:\Users\Nurdaulet\Desktop\Programming\Snake\Snake\obj\Debug\netcoreapp2.1\Snake.AssemblyInfoInputs.cache
+C:\Users\Nurdaulet\Desktop\Programming\Snake\Snake\obj\Debug\netcoreapp2.1\Snake.AssemblyInfo.cs
+C:\Users\Nurdaulet\Desktop\Programming\Snake\Snake\bin\Debug\netcoreapp2.1\Snake.deps.json
+C:\Users\Nurdaulet\Desktop\Programming\Snake\Snake\bin\Debug\netcoreapp2.1\Snake.runtimeconfig.json
+C:\Users\Nurdaulet\Desktop\Programming\Snake\Snake\bin\Debug\netcoreapp2.1\Snake.runtimeconfig.dev.json
+C:\Users\Nurdaulet\Desktop\Programming\Snake\Snake\bin\Debug\netcoreapp2.1\Snake.dll
+C:\Users\Nurdaulet\Desktop\Programming\Snake\Snake\bin\Debug\netcoreapp2.1\Snake.pdb
+C:\Users\Nurdaulet\Desktop\Programming\Snake\Snake\obj\Debug\netcoreapp2.1\Snake.dll
+C:\Users\Nurdaulet\Desktop\Programming\Snake\Snake\obj\Debug\netcoreapp2.1\Snake.pdb
+C:\Users\Nurdaulet\Desktop\Snake version 2\Snake\obj\Debug\netcoreapp2.1\Snake.csprojAssemblyReference.cache
+C:\Users\Nurdaulet\Desktop\Snake version 2\Snake\obj\Debug\netcoreapp2.1\Snake.csproj.CoreCompileInputs.cache
+C:\Users\Nurdaulet\Desktop\Snake version 2\Snake\obj\Debug\netcoreapp2.1\Snake.AssemblyInfoInputs.cache
+C:\Users\Nurdaulet\Desktop\Snake version 2\Snake\obj\Debug\netcoreapp2.1\Snake.AssemblyInfo.cs
+C:\Users\Nurdaulet\Desktop\Snake version 2\Snake\obj\Debug\netcoreapp2.1\Snake.dll
+C:\Users\Nurdaulet\Desktop\Snake version 2\Snake\obj\Debug\netcoreapp2.1\Snake.pdb

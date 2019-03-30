@@ -1,0 +1,14 @@
+C:\Users\Пользователь\source\repos\Snake\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\Пользователь\source\repos\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\Пользователь\source\repos\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\Пользователь\source\repos\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\Пользователь\source\repos\Snake\Snake\obj\Debug\Snake.pdb
+C:\Users\Nurdaulet\Desktop\Snake version 1\Snake\bin\Debug\Snake.exe.config
+C:\Users\Nurdaulet\Desktop\Snake version 1\Snake\bin\Debug\Snake.exe
+C:\Users\Nurdaulet\Desktop\Snake version 1\Snake\bin\Debug\Snake.pdb
+C:\Users\Nurdaulet\Desktop\Snake version 1\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+C:\Users\Nurdaulet\Desktop\Snake version 1\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\Nurdaulet\Desktop\Snake version 1\Snake\obj\Debug\Snake.exe
+C:\Users\Nurdaulet\Desktop\Snake version 1\Snake\obj\Debug\Snake.pdb
