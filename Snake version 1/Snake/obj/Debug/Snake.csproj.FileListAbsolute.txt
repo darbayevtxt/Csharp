@@ -12,3 +12,10 @@ C:\Users\Nurdaulet\Desktop\Snake version 1\Snake\obj\Debug\Snake.csprojAssemblyR
 C:\Users\Nurdaulet\Desktop\Snake version 1\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
 C:\Users\Nurdaulet\Desktop\Snake version 1\Snake\obj\Debug\Snake.exe
 C:\Users\Nurdaulet\Desktop\Snake version 1\Snake\obj\Debug\Snake.pdb
+C:\Users\Nurdaulet\Documents\GitHub\Csharp\Snake version 1\Snake\bin\Debug\Snake.exe.config
+C:\Users\Nurdaulet\Documents\GitHub\Csharp\Snake version 1\Snake\bin\Debug\Snake.exe
+C:\Users\Nurdaulet\Documents\GitHub\Csharp\Snake version 1\Snake\bin\Debug\Snake.pdb
+C:\Users\Nurdaulet\Documents\GitHub\Csharp\Snake version 1\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+C:\Users\Nurdaulet\Documents\GitHub\Csharp\Snake version 1\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\Nurdaulet\Documents\GitHub\Csharp\Snake version 1\Snake\obj\Debug\Snake.exe
+C:\Users\Nurdaulet\Documents\GitHub\Csharp\Snake version 1\Snake\obj\Debug\Snake.pdb

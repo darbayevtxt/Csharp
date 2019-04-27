@@ -26,6 +26,7 @@ namespace Snake
             level = 1;
             score = 0;
             gameover = true;
+
         }
         public static void CreateObjects()
         {

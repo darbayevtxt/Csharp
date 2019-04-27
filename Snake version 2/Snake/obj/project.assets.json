@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nurdaulet\\Desktop\\Snake version 2\\Snake\\Snake.csproj",
+      "projectUniqueName": "C:\\Users\\Nurdaulet\\Documents\\GitHub\\Csharp\\Snake version 2\\Snake\\Snake.csproj",
       "projectName": "Snake",
-      "projectPath": "C:\\Users\\Nurdaulet\\Desktop\\Snake version 2\\Snake\\Snake.csproj",
+      "projectPath": "C:\\Users\\Nurdaulet\\Documents\\GitHub\\Csharp\\Snake version 2\\Snake\\Snake.csproj",
       "packagesPath": "C:\\Users\\Nurdaulet\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nurdaulet\\Desktop\\Snake version 2\\Snake\\obj\\",
+      "outputPath": "C:\\Users\\Nurdaulet\\Documents\\GitHub\\Csharp\\Snake version 2\\Snake\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
